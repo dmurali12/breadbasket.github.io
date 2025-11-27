@@ -38,8 +38,8 @@ preferences:
 title: "BreadBasket"
 heading: "Dixsheta Muralikrishnan"
 description: "A repository for MCAT content"
-url: "https://dmurali12/breadbasket.github.io"
-baseurl: "/notes"
+url: "https://dmurali12.github.io"
+baseurl: "/breadbasket.github.io"
 
 # Asset Configuration
 apple_touch_icon: "/assets/img/profile.png"
