@@ -35,10 +35,10 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "Your Site Title"
-heading: "Your Name"
-description: "A brief description of your site"
-url: "https://yoursite.com"
+title: "BreadBasket"
+heading: "Dixsheta Muralikrishnan"
+description: "A repository for MCAT content"
+url: "https://dmurali12/breadbasket.github.io"
 baseurl: ""
 
 # Asset Configuration
