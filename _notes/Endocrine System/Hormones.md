@@ -1,6 +1,8 @@
-#InProgress 
-
-
+---
+title: "Hormone"
+date: 2025-11-26
+feed: "show"
+---
 
 Plans:
 - list of hormones that are discussed
