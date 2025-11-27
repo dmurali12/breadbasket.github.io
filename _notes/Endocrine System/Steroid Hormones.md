@@ -1,4 +1,9 @@
-#DraftComplete 
+---
+title: "Steroid Hormones"
+date: 2025-11-26
+feed: "show"
+---
+
 - Produced by [[Gonads|gonads]] and [[Adrenal Gland|adrenal gland]] in the [[Cell Organization|smooth endoplasmic reticulum]]
 - Molecular structure similar to [[Cholesterol synthesis|cholesterol]]
 	- They are thus [[Polarity|nonpolar]] and [[Membrane Structure|can enter the cell]]

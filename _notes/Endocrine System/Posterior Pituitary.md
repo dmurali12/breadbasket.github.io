@@ -1,4 +1,8 @@
-#InProgress 
+---
+title: "Posterior Pituitary"
+date: 2025-11-26
+feed: "show"
+---
 
 - Does not produce hormones
 - Storage site for hormones produced by [[Public/Endocrine System/Hypothalamus|hypothalamus]]

@@ -1,4 +1,9 @@
-#InProgress 
+---
+title: "Reproductive Axis"
+date: 2025-11-26
+feed: "show"
+---
+
 ```mermaid
 graph TD
 H[Hypothalamus]

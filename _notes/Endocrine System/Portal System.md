@@ -1,4 +1,8 @@
-#Definition 
+---
+title: "Portal System"
+date: 2025-11-26
+feed: "show"
+---
 
 Usually, blood does not travel from organ to organ. It has to go through the heart. Portal systems are unique because they allow for blood from one organ to travel to another. 
 
