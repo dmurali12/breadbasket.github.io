@@ -7,4 +7,8 @@ permalink: /about
 
 # About
 
-Jekyll Garden is a clean, minimal Jekyll theme designed to make publishing your Obsidian vault as a static website incredibly easy. It bridges the gap between private knowledge management and public sharing, allowing you to create a digital garden where your notes are interconnected through wiki-style links and easily discoverable through search. 
+Hi! Welcome to the BreadBasket! The goal of this website is to act as a reference point for MCAT students. 
+
+As an MCAT tutor, one of the biggest barriers to content understanding that I've noticed is how every concept builds upon a solid scientific foundation. 
+
+There are awesome resources out there for MCAT students, but it can be extremely overwhelming to read about G-Protein Coupled Receptors if you don't remember what a *ligand* is. My goal with this website is to lower that barrier by as much as I can. 
